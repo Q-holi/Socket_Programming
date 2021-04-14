@@ -2,4 +2,4 @@
 
 <h3> 7주차 실행결과화면</h3>
 ![socket_homework](/image/7WeekImage.PNG)
-![socket_homework])(https://cdn.discordapp.com/attachments/572376677338841105/831890916800987156/7_.PNG)
+![socket_homework])(https://cdn.discordapp.com/attachments/572376677338841105/831890916800987156/7.PNG)
